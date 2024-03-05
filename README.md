@@ -1,11 +1,11 @@
 Introduction
 --------------------------------------------------------------------------------------------------------------------
 This project will show my skills in analyzing and visualizing NYC vehicle collision data using Python and Tableau. I decided
-on this project because I commute every day to work/school and I was extremely interested in understanding the frequency and
-factors that contribute to car accidents. I analyzed NYC's public dataset to find patterns and insights into how car
-collisions happen every day.
+on this project because I commute daily to work and school and was extremely interested in understanding the frequency and
+factors contributing to car accidents. I don't ever see information on the news or social media about this topic which really
+got me thinking about what to expect in my data analysis exploration. 
 
-My goal was to try to find ways to prevent accidents like this from occurring by making data-driven decisions.
+My goal was to find valuable insights or interesting data as I had no idea what to expect when exploring this vast dataset.
 
 
 Problem Statement
