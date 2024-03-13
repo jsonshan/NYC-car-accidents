@@ -1,6 +1,6 @@
 # NYC Car Collisions Analysis
 
-View my Tableau Dashboard! [NYC Car Collisions](https://public.tableau.com/app/profile/jason.shan6322/viz/NYCCarCollisions_17096005773020/NYCDashboard)
+## View my Tableau Dashboard! [NYC Car Collisions](https://public.tableau.com/app/profile/jason.shan6322/viz/NYCCarCollisions_17096005773020/NYCDashboard)
 
 ## Project Overview:
 This project will show my skills in analyzing and visualizing NYC vehicle collision data collected over the past 6 years. I decided on this project because I commute daily to the city and was extremely interested in understanding the frequency and
