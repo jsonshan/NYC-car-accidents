@@ -117,6 +117,6 @@ Which time of year or season has the most car crashes?
 Using the API to grab 2000 rows of data portrayed an inaccurate picture of NYC car collisions, so I used the latest 500,000 recorded data points, which meant I couldn't upload the Excel
 file to Git Hub.
 
-I didn't remove null values as I thought it was unnecessary for the information I was trying to find which led to my Tableau having included NULL values in my visualizations
+I didn't remove null values as I thought it was unnecessary for the information I was trying to find which led to my Tableau having included NULL values in my visualizations, but I will definitely avoid doing this on future projects
 
 Using 1,000,000 data points made cleaning, transforming, and dealing with special values difficult. 
