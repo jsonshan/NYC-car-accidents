@@ -2,6 +2,8 @@
 
 ## View my Tableau Dashboard! [NYC Car Collisions](https://public.tableau.com/app/profile/jason.shan6322/viz/NYCCarCollisions_17096005773020/NYCDashboard)
 
+![image](https://github.com/jsonshan/NYC-car-accidents/assets/122257933/428888fc-f4f0-4739-9cbc-b72a2ccc234a)
+
 ### Project Overview:
 This project will show my skills in analyzing and visualizing NYC vehicle collision data collected over the past 6 years. I decided on this project because I commute daily to the city and was extremely interested in understanding the frequency and
 factors contributing to vehicle accidents. By analyzing car accidents, I seek to find trends and gain a deeper understanding of vehicle collisions that occur in NYC.
@@ -117,4 +119,4 @@ file to Git Hub.
 
 I didn't remove null values as I thought it was unnecessary for the information I was trying to find which led to my Tableau having included NULL values in my visualizations
 
-Using 500,000 data points made cleaning, transforming, and dealing with special values difficult. 
+Using 1,000,000 data points made cleaning, transforming, and dealing with special values difficult. 
