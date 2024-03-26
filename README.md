@@ -8,6 +8,18 @@ factors contributing to vehicle accidents. By analyzing car accidents, I seek to
 
 My objective in the exploration is to find ways to prevent vehicle accidents and expose the dangers of car accidents.
 
+### Recommendations
+1. **Vehicle Type-Specific Initiatives**: Develop targeted initiatives aimed at sedan and SUV drivers, as these vehicles are the majority involved in car accidents. This could include educational programs focused on handling these vehicles and strategies for minimizing collision risks.
+
+2. **Seasonal Safety Campaigns**: Launch seasonal safety campaigns targeting the spring and winter months, which are identified as the seasons with the highest number of car crashes
+
+3. **Public Awareness Campaigns**: Since driver inattention/distraction is identified as the number one cause of vehicle accidents, consider launching ads and events that promote safe driving practices
+
+4. **Infrastructure Improvements**: Work with city authorities to identify and address infrastructure issues in Brooklyn, the borough with the most car crashes. This might involve improving road signs, fixing traffic signals, and initiating road maintenance
+
+5. **Seasonal Safety Campaigns**: Launch seasonal safety campaigns targeting the spring and winter months, which are identified as the seasons with the highest number of car crashes
+
+6. **Increased Emergency Services**: Deploy additional police and emergency medical personnel to areas prone to frequent car collisions
 
 ### Findings:
 Vehicle accidents most frequently occur between the morning and afternoon
@@ -97,14 +109,6 @@ Which borough has the most car accidents?
 Which time of year or season has the most car crashes?
 
 ![seasons](https://github.com/jsonshan/car-accidents/assets/122257933/9742b06c-505a-4dc5-86dc-0cfe5c4cd47a)
-
-### Recommendations
-The number one factor in vehicle collisions is the driver's inattention/distraction, almost four times as much as its runner-up. To prevent more car collisions, the driver and civilian should be more alert, especially during the mornings and afternoons when car crashes occur most frequently.
-
-Spring, then winter tends to have the most vehicle collisions. We could explore further and see the particular reasoning such as weather conditions and holidays.   
-
-Brooklyn should have more policemen, ambulances, and hospitals on call. For comparison, Brooklyn has over 10 times more car crashes than Staten Island, so we should bring help to the areas with the most car accidents. 
-
 
 
 ### Challenges/Limitations:
