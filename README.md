@@ -1,12 +1,30 @@
 # NYC Car Collisions Analysis
 
+
 ## View my Tableau Dashboard! [NYC Car Collisions](https://public.tableau.com/app/profile/jason.shan6322/viz/NYCCarCollisions_17096005773020/NYCDashboard)
 
 ![image](https://github.com/jsonshan/NYC-car-accidents/assets/122257933/428888fc-f4f0-4739-9cbc-b72a2ccc234a)
 
+## Table of Contents
+1. [Introductions](#introductions)
+2. [Project Overview](#project-overview)
+3. [Recommendations](#recommendations)
+4. [Findings](#findings)
+5. [Data Sources](#data-sources)
+6. [Tools](#tools)
+7. [Problem Statement](#problem-statement)
+8. [Data Cleaning/Preparation](#data-cleaningpreparation)
+9. [Data Analysis/Results](#data-analysisresults)
+10. [Challenges/Limitations](#challengeslimitations)
+
+### Introductions
+- A single major car accident can bring an entire highway to a standstill, causing delays ranging from several minutes to over an hour
+
+- This not only causes additional costs due to increased fuel consumption while cars remain turned on, thus harming the environment, but it also disrupts the flow of citizens' daily routines and can significantly impact their lives
+
+- To mitigate the effects of such accidents, individuals often wake up earlier to avoid peak accident times, resulting in reduced sleep, overall happiness, and well-being
 ### Project Overview:
-This project will show my skills in analyzing and visualizing NYC vehicle collision data collected over the past 6 years. I decided on this project because I commute daily to the city and was extremely interested in understanding the frequency and
-factors contributing to vehicle accidents. By analyzing car accidents, I seek to find trends and gain a deeper understanding of vehicle collisions that occur in NYC.
+This project will show my skills in analyzing and visualizing NYC vehicle collision data collected over the past 6 years. I decided on this project because I commute daily to the city and was extremely interested in understanding the frequency and factors contributing to vehicle accidents. By analyzing car accidents, I seek to find trends and gain a deeper understanding of vehicle collisions that occur in NYC.
 
 My objective in the exploration is to find ways to prevent vehicle accidents and expose the dangers of car accidents.
 
